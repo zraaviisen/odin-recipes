@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.un-list{
+    text-align: center;
+}
+
+.un-list li{
+    text-decoration: underline;
+}
+
+.header{
+    font-weight: bold;
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+}
+
+#top-header{
+    font-size: 75px;
+    font-style: italic;
+    font-family: fantasy;
+}
+img{
+    height: 400px;
+}
